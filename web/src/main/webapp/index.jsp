@@ -14,7 +14,8 @@
 </head>
 <body>
   <br>
-  <h1>Super Simple Jenkins CI/CD-Tomcat Example Web Page!!!</h1>
+  <h1>Super Simple Jenkins CI/CD-Tomcat Example JSP Web Page!!!</h1>
+  <br>
   <p>
     This is a very simple example web page on a JSP.
   </p>
